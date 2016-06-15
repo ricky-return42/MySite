@@ -46,3 +46,23 @@ section .row img {
   	height: auto;
   	overflow: hidden;
 }
+#off_work, #on_work {
+	margin-bottom: 60px;
+	padding-left: 20px;
+	width: 100%;
+}
+footer {
+  display: flex;
+  align-items: center;
+  background-image: url('http://res.cloudinary.com/dexpzle9i/image/upload/v1465975513/Path-path-ed_sjotmf.jpg');
+  background-size: cover;
+  min-height: 350px;
+  color: #ffffff;
+  margin-top: 60px;
+ }
+ footer h2 {
+  
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
